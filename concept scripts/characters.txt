@@ -1,0 +1,49 @@
+original 9 unchanged (unlockable with new collectables in stages)
+names begin with an R (e.g. R Sonic)
+unlocking character will also unlock the original music track for that stage
+	question: do sonic tokens now unlock modern robo chars? and if yes: how do you unlock the R robos?
+
+idea note: special attack items?
+
+new abillity button: normal use: sidestep (replaces f-zero-like hard turn (L and R button) on modern characters (R characters keep it))
+
+additional characters
+
+modern sonic 		- homing attack: less height, more speed
+			- when hitting a destructable object /stage hazard while in jump or homing state destroys it, 
+				bouncing of and gaining 50% horizontal speed
+			- sidestep (like in sonic 3d games/stages)
+modern super sonic 	- chaos control: a fast airborne dash forward
+		   	- floats like tails
+			- floats over water
+			- can fly through stage hazards (destroys them)
+			- sidestep galore
+			- the fastest one (does have same accelleration like sonic, but waaaay higher speedcap)
+modern tails 		- able to tap the button repeadetly to gain height, able to run tired like sonic 2
+			- can sidestep also while airborne
+modern knuckles		- when canceling glide on a certain height, lands with a punch, creating a shockwave 
+				(hurts and maybe pushes other racers, destroys stage hazards)
+			- sidestep (only on ground)
+modern amy:		- first of all, of course she has her most recent design, not the sonic cd one
+			- more sporty car
+			- drifting instead of sidestep, gives minor boost on release, charges boost ability 
+				(that one that she has when pressing the jump button, it also has a visible meter now)
+			- nerf: hovercraft transformation has a time limit, 
+				not able to boost or drift while in hovercraft state
+			- plays like a "normal" racecar
+modern eggman:		- keeps homing missiles
+			- speed nerf i guess
+			- holding sidestep buttons creates a shield 
+				that gives minor buff on speed while on and recharges over time when not used
+
+characters additional to these five: playable in story mode?
+
+modern robo characters?
+	(metal sonic and tails doll could use some changes)
+
+new characters?
+
+		chars with potential for skins/echo chars:
+			shadow, silver, charmy, rouge, blaze
+		chars with actual potential: 
+			cream, big, vector, mighty, ray

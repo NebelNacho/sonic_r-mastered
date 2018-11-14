@@ -1,0 +1,35 @@
+My Experiences with Sonic R:
+
+Since i started playing videogames, Racing games have allways been one of my favourite genres, infact my first game i owned was MarioKart for the Nintendo DS!
+
+When i started playing other racing games i sooner or later came towards the Sonic & Sega Allstars Racing Games, which also released on the ds (only the first one but well).
+But i allways wondered why those animals, who are specifically designed to be fast, have to use a racecar...
+
+But then, one day, that eventually had to happen, i stumbled upon the awesome piecof music called: "Can you feel the Sunshine?".
+And as i was super impressed by that track, i kept researching until i found out what game it belonged to: a Sonic Racing Game with no Cars (well, mostly).
+
+Being super hyped by the idea i kept researching until at some Point, i saw enough videos that argue about, how sonic R in theory seems to be a great game, but the only thing that prevents it from acchieving that would be the abnormal controlls, which wont let you around turns at all ant lets you run against walls etc.
+So i thought to myself: what if i was to rebuild the whole game, use all the original assets, or at least make them look simillar, but i completely reconstruct the controls, so the game is actually playable and i can enjoy the music in action without being thrown off.
+Or so i thought...
+I also watched a huge load of the Gamehut channel, basically voring all of the Sonic R Coding Secrets... very nice channel...
+But it wasnt until recently that i picked up the game myself to see how bad it really is...
+And honestly: i was blown away by how beautiful and ahead of its time this game was!
+Sure, the game is really short with only 5 playable tracks, but thats because half of the games content is locked behind a collectathon.
+Thats right: You literally have to seek out and collect multiple items across the whole map, while still thinking about the race and getting through the finish line first!
+And the far spread paths across the maps, combined with the places where collectibles where hidden and most importantly the music made me have a huge blast while playing.
+But i have to admit the game has its bad parts: as i already mentioned: the game is very short. I got through the whole game in less than 2, and completed the 100% file in less than 4 hours.
+And although it didnt bother me much, i can see how the controls are kinda bad: i played as Tails, who has the best turn abilities of them all, and i STLL ran into wall without being able to do anything very often.
+
+But thats why i picked this project back up.
+
+About the Project:
+
+The Goal of this project is to completely revamp the original Game of Sonic R, making it not only more visually appealing (not that it was already, but only for back in the day), but also making playing it feel better and in the process adding more content to the game, inculding a story, more tracks and more characters.
+To do this, there first will be a playable Tech-Demo using the original Models for Sonic and Resort island. Then i will progressively keep adding more stages, characters, modes and start making custom models to replace the old ones.
+
+This game will in no kind of way EVER be charging ANY money to ANYone, although help will be appreciated, not in form of money but actual help.
+
+In the meantime of its development i highly suggest you to not only check out the Gamehut channel, but also test the original game for yourself, it's a really fun game if you look over its imo very few flaws.
+Get yourself addicted to the music and support the original developers, idk...
+
+Cheers.

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Mushroom Bridge Car Test.unity
+  isLoaded: 1
+  isActive: 1

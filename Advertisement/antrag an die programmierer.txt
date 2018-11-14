@@ -1,0 +1,16 @@
+@Developer 
+Ich weiss ja, dass es mit Project Game/TimeChanger bisher noch nicht so krass geklappt hat...
+
+Das liegt aber ja auch unter anderem daran, dass das Projekt einfach eine ziemlich riesige Masse an original content beinhaltet bis zu dem Punkt, dass man nicht nur behaupten kann wir wären etwas zu unerfahren dafür, sondern auch zu unkoordiniert. Es ist einfach ein viel zu großes Projekt um in die Game-Development-Szene einzusteigen.
+
+Jetzt habe ich jedoch schon einer längeren Weile eine Idee gehabt die mir sehr auf dem Herzen brannte und habe für diese vor kurzem ein Konzeptscript erstellt, das mir einfach zu solide erscheint um nicht umgesetzt zu werden.
+Da das Spiel ebenfalls auf einem bereits existierendem beruht braucht man sich auch nicht zu sehr Sorgen über eigene ideen machen, da man für anfängliche Tests auch assets aus dem Original (die es alle online gibt) reusen kann, bis man selbst Schöner Aussehende erstellt hat.
+
+Wie ihr jedoch vielleicht ebenfalls wisst, bin ich selber natürlich kein Allround-Genie, das im Alleingang gut aussehende Modelle, funktionierenden cCde etc. produzieren kann.
+Deswegen würde ich mich sehr darüber freuen, die Hilfe von Einigen unter euch in Anspruch nehmen zu können.
+
+Wer also Interesse hätte, täte nett daran, sich bei mir zu melden, damit ich ihm das Konzept sowie das Spiel auf dem es basiert näherbringen kann.
+
+Wär echt nett, wenn ich mich da nicht alleine durchquälen müsste.
+
+Cheers.

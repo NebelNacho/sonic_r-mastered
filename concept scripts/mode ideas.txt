@@ -1,0 +1,63 @@
+versus race: 		just the tracks, no collectables (but shortcuts), multiplayer, 
+			optionally turn off stage hazards, item, ai drivers
+tutorial/settings mode: explains every character (text), lets you test him on a test stage, change controlls, 
+			tutorial for base game (gets forced on you when starting new safe file (is skippable tho), proceeds into story mode)
+			difficulty can be chosen when starting new file, can be changed later in settings
+original modes 		(time trial, etc.)
+story mode: 		hubworld, original 5 maps (maximum optical revamps, no gameplay-changing stuff allowed), 
+				you have to collect every chaos emerald, if you have them you get a
+				secret race, then bossfight with eggman on/after radiant emerald as super sonic
+			hubworld ideas: circular room, racing themed, in 4 directions are teleportes to each map,
+				7 pedestals for chaos emeralds in the middle of the room, if all are collected, 
+				jumping inside transforms sonic, making him fly towards radiant emerald
+					question: is player able to play tracks multiple times? if yes: why? 
+						how to determine when eggman steals the winners cup? (cutscene)
+				going inside a gate doesnt start the race but sends you to the starting region of the track, 
+					where you can start the race by talking to an npc, 
+					or practice the track by just walking through it, 
+					but all rings and collectibles as well as their traces are gone 
+					rendereing collecting them or opening shortcuts impossible
+
+			premise: the winners cup (only 4 tracks) contains some powerfull item, eggman tries to win to get it, 
+				takes it anyways after he lost 
+			if you play it through, you unlock eggman (and R super sonic?) for every mode, 
+				as well as the abillity to play as other characters in storymode (adds terminal ans icons next to gates)
+				Collectables beside chaos emeralds also appear, making more characters unlockable
+				added sonic tokens (and classic tokens) on radiant emerald
+					question: how to lock/unlock modern super sonic, he is way too strong, 
+						maybe something with radiant emerald (sonic tokens)
+						if he collects classic tokens: R eggman or R super sonic?
+					possible solutions: make him unlock R super sonic on playthrough, 
+							trolling him with not giving him "real", op super sonic, 
+							but also showing him theres classic characters
+						for classic eggman he has to collect classic tokens 
+						and for modern super sonic he has to collect/defeat something in all 4 normal stages, 
+							which then unlocks (very hard to reach) super sonic tokens on radiant emerald. 
+							also maybe beating super sonic in the following race is like the hardest thing ever
+					question: how and will it be possible to rechallenge eggman?
+					possible solution: maybe he's hanging around at the radiant emerald starting area, offering a rematch
+						if you play as eggman himself, there instead is an egg robo, 
+							offering his master (you) training, 
+								if accepted he transforms into a grey (metallic) version of the eggman bossfight
+grand prix: 		unlocked when beating story mode
+			all tracks in one go
+			collectables exist, get calculated like originals (tokens if 3rd or better, emeralds only if first)
+			add to score at end of race 
+				(e.g. normal win: 15 points, emerald +5 points, tokens: +1 point each, bonus if all)
+				bonus points if complete emeralds/tokens at end of grand prix
+			clearing the emerald/token challenge (and getting first place overall) unlocks special cups
+				e.g. mario kart cup (e.g. mushroom bridge), sanic ball cup?
+			beating those unlocks secret characters 
+				(e.g mario character (maybe shuy guy)(in a kart), sanic as a ball)
+			beating something with all of those unlocks final oc
+				beating something with final char gives super special credits
+
+credits:		first type (most lame one) after beating all 4 stages in storymode (1st time)
+(maybe in options menu)	second type after defeating eggman
+				subsequent credits (only slightly changed according to original game) 
+				after beating story mode with other characters (all icons next to stages)
+					skippable
+			third one after beating grand prix number one (skippable the second time)
+				subsequent credits after beating special cups respectively (skippable)
+			fourth one when fulfilling requirements for final character
+			final one when beating last challenge with final character
